@@ -109,7 +109,7 @@ kind: RoleBinding
 apiVersion: rbac.authorization.k8s.io/v1
 metadata:
   name: dailyclean
-  namespace: gthomas59800-dev
+  namespace: sunayanaparikh3-dev
 subjects:
   - kind: ServiceAccount
     name: dailyclean
